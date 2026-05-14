@@ -9,4 +9,4 @@ An automation tool designed for Chemical Engineers to manage inventory and ensur
 - **VBA Powered:** One-click execution directly from the Excel interface.
 
 ## Demo
-![Project Demo](https://vimeo.com/1192169233?share=copy&fl=sv&fe=ci)
+<a href="https://vimeo.com/1192169233?share=copy&fl=sv&fe=ci">product demo</a>
